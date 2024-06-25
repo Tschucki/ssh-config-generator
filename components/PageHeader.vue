@@ -12,7 +12,7 @@ const props = defineProps({
 </script>
 
 <template>
-  <h1 class="text-5xl font-medium tracking-wide">{{ title }}</h1>
+  <h1 class="md:text-5xl text-xl font-medium tracking-wide">{{ title }}</h1>
 </template>
 
 <style scoped>
