@@ -22,9 +22,9 @@ import {
   DropdownMenuLabel,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "@/Components/ui/dropdown-menu";
+} from "@/components/ui/dropdown-menu";
 import { Switch } from "~/components/ui/switch";
-import { RadioGroup, RadioGroupItem } from "@/Components/ui/radio-group";
+import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
 import { defineEmits } from "vue";
 
 const emit = defineEmits(["remove", "entriesUpdated"]);

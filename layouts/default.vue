@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Toaster } from "@/Components/ui/sonner";
+import { Toaster } from "@/components/ui/sonner";
 import { Icon } from "@iconify/vue";
 
 defineProps({
